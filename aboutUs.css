@@ -1,0 +1,21 @@
+#whoWeAre{
+   margin-top: 50px;
+   margin-bottom: 40px;
+}
+
+#whoWeAre p, h2{
+   text-align: center;
+   padding-top: 20px;
+}
+
+#whoWeAre p{
+   padding-left: 15%;
+   padding-right: 15%;
+}
+
+#whoWeAre img{
+   display:block;
+   margin: 20px auto 20px auto;
+   max-width:90%;
+   height:auto;
+}
